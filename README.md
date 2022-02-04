@@ -11,7 +11,7 @@ When paused, you can change the number to a higher or lower figure. The timer st
 
 Watch the circumference of the circle disappers as the timer counts down to 0.
 
-I completed this project to practise my Javascript skills. 
+This project is based on the Udemy Course I am currently enrolled, "The Modern Javascript Bootcamp Course", section 20, (https://www.udemy.com/course/javascript-beginners-complete-tutorial/) which I completed to practise my Javascript skill.
 
 # Coding Languages Used
 - HTML
